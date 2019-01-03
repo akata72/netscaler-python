@@ -4,7 +4,7 @@
 # Login/logout
 nitroNSIP = ["40.112.89.239","40.113.3.156"]
 nitroUser = "nsadmin"
-nitroPass = "@JJ5wXl{k&xhd[8tie0=he_"
+nitroPass = ""
 connectiontype = "https"
 
 # NTP server
